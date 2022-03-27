@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "alex@yandex.ru",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "email": "vlad@yandex.ru",
+      "password": "321456"
+    },
+    {
+      "id": 3,
+      "email": "alex@mail.ru",
+      "password": "789654"
+    },
+    {
+      "email": "al@rambler.ru",
+      "password": "369",
+      "id": 4
+    },
+    {
+      "email": "all@rambler.ru",
+      "password": "369",
+      "id": 5
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "Александр Александрович",
+      "description": "зубной врач"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "name": "alex",
+      "description": "контакт"
+    },
+    {
+      "id": 4,
+      "userId": 3,
+      "name": "Петр Петрович",
+      "description": "контакт по работе"
+    },
+    {
+      "id": 9,
+      "userId": 4,
+      "name": "Михаил Михайлович",
+      "description": "автомеханик"
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "name": "Дмитрий Сергеевич",
+      "description": "автомеханик"
+    },
+    {
+      "id": 11,
+      "userId": 1,
+      "name": "Алексей Михайлович",
+      "description": "дизайнер"
+    },
+    {
+      "userId": 5,
+      "name": "Дмитрий Владимирович",
+      "description": "преподаватель университета",
+      "id": 12
+    },
+    {
+      "userId": 5,
+      "name": "Татьяна Алексеевна",
+      "description": "учитель нач школы",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "name": "Сергей Петрович",
+      "description": "шиномонтаж",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "name": "Борис",
+      "description": "кузов. работы",
+      "id": 15
+    },
+    {
+      "userId": 4,
+      "name": "Олег",
+      "description": "тренер по фитнесу",
+      "id": 16
+    }
+  ]
+}
